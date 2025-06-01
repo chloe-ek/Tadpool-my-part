@@ -19,7 +19,8 @@ The project was built on a **legacy codebase inherited from multiple previous te
 ---
 
 ## ✨ Project Highlights
-> The following features were collaboratively developed by the full team and are not included in this repo.
+> The following features were developed during the sprint by our team.  
+> This public repo includes only the parts I personally implemented (noted below).
 
 
 - **🧠 Facial Verification with AWS Rekognition**  
