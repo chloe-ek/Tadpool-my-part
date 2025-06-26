@@ -57,30 +57,29 @@ I worked across both the frontend and backend, focusing on:
 
 ### 🔐 Login & Onboarding
 <p>
-  <img src="./screenshots/intro.png" width="200" style="margin-right:10px;" />
-  <img src="./screenshots/login.png" width="200" />
+  <img src="./screenshots/intro.png" width="160" style="vertical-align: top; margin-right:10px;" />
+  <img src="./screenshots/login.png" width="160" style="vertical-align: top;" />
 </p>
 
 ### 🧠 Facial Verification
 <p>
-  <img src="./screenshots/rekognition.png" width="200" style="margin-right:10px;" />
-  <img src="./screenshots/verified.png" width="200" style="margin-right:10px;" />
-  <img src="./screenshots/verified_user.png" width="200" />
+  <img src="./screenshots/rekognition.png" width="160" style="vertical-align: top; margin-right:10px;" />
+  <img src="./screenshots/verified.png" width="160" style="vertical-align: top; margin-right:10px;" />
+  <img src="./screenshots/verified_user.png" width="160" style="vertical-align: top;" />
 </p>
 
 ### 🤝 Matching Flow
 <p>
-  <img src="./screenshots/discover.png" width="200" style="margin-right:10px;" />
-  <img src="./screenshots/personal.png" width="200" style="margin-right:10px;" />
-  <img src="./screenshots/map_matching.png" width="200" />
+  <img src="./screenshots/discover.png" width="160" style="vertical-align: top; margin-right:10px;" />
+  <img src="./screenshots/personal.png" width="160" style="vertical-align: top; margin-right:10px;" />
+  <img src="./screenshots/map_matching.png" width="160" style="vertical-align: top;" />
 </p>
 
 ### 📍 Map Features
 <p>
-  <img src="./screenshots/map.png" width="200" style="margin-right:10px;" />
-  <img src="./screenshots/livemap.png" width="200" />
+  <img src="./screenshots/map.png" width="160" style="vertical-align: top; margin-right:10px;" />
+  <img src="./screenshots/livemap.png" width="160" style="vertical-align: top;" />
 </p>
-
 
 ---
 
