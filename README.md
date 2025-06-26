@@ -55,26 +55,31 @@ I worked across both the frontend and backend, focusing on:
 
 ## 🖼️ Screenshots
 
+### 🔐 Login & Onboarding
+<p>
+  <img src="./screenshots/intro.png" width="200" style="margin-right:10px;" />
+  <img src="./screenshots/login.png" width="200" />
+</p>
 
-# 🔐 Login & Onboarding
-![Intro](./screenshots/intro.png)
-![Login](./screenshots/login.png)
+### 🧠 Facial Verification
+<p>
+  <img src="./screenshots/rekognition.png" width="200" style="margin-right:10px;" />
+  <img src="./screenshots/verified.png" width="200" style="margin-right:10px;" />
+  <img src="./screenshots/verified_user.png" width="200" />
+</p>
 
+### 🤝 Matching Flow
+<p>
+  <img src="./screenshots/discover.png" width="200" style="margin-right:10px;" />
+  <img src="./screenshots/personal.png" width="200" style="margin-right:10px;" />
+  <img src="./screenshots/map_matching.png" width="200" />
+</p>
 
-# 🧠 Facial Verification
-![Rekognition](./screenshots/rekognition.png)
-![Verified](./screenshots/verified.png)
-![Verified User](./screenshots/verified_user.png)
-
-# 🤝 Matching Flow
-![Discover](./screenshots/discover.png)
-![Personal](./screenshots/personal.png)
-![Map Matching](./screenshots/map_matching.png)
-
-
-#📍 Map Features
-![Map](./screenshots/map.png)
-![Live Map](./screenshots/livemap.png)
+### 📍 Map Features
+<p>
+  <img src="./screenshots/map.png" width="200" style="margin-right:10px;" />
+  <img src="./screenshots/livemap.png" width="200" />
+</p>
 
 
 ---
