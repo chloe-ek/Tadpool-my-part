@@ -3,7 +3,7 @@
 TadPool is a mobile dating and networking app built to solve common online dating problems — ghosting, fake profiles, and unsafe meetups — by focusing on **verified, location-based matches** that encourage **real-life connections**.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/945ee114-4393-497e-8e7e-e24fbd4417b1" alt="TadPool Logo" width="120" />
+  <img src="https://github.com/user-attachments/assets/945ee114-4393-497e-8e7e-e24fbd4417b1" alt="TadPool Logo" width="360" />
 </p>
 
 
@@ -54,6 +54,27 @@ I worked across both the frontend and backend, focusing on:
 ---
 
 ## 🖼️ Screenshots
+
+
+# 🔐 Login & Onboarding
+![Intro](./screenshots/intro.png)
+![Login](./screenshots/login.png)
+
+
+# 🧠 Facial Verification
+![Rekognition](./screenshots/rekognition.png)
+![Verified](./screenshots/verified.png)
+![Verified User](./screenshots/verified_user.png)
+
+# 🤝 Matching Flow
+![Discover](./screenshots/discover.png)
+![Personal](./screenshots/personal.png)
+![Map Matching](./screenshots/map_matching.png)
+
+
+#📍 Map Features
+![Map](./screenshots/map.png)
+![Live Map](./screenshots/livemap.png)
 
 
 ---
