@@ -83,23 +83,20 @@ I worked across both the frontend and backend, focusing on:
 
 ---
 
-## 🔧 How to Run (Partial Setup)
+## 🔧 Codw Showcase**
 
-> Due to the private nature of the full repo and secrets, this public repo is not fully runnable.  
-> However, key files (APIs, logic, components) are included for portfolio purposes.
-
----
-
-## 💡 Why This Repo Exists
-
-The original project was hosted in a **private group repository**.  
-This repo is a curated version that includes **only the files I directly worked on**, recreated for public viewing.
+> This repository highlights the core components and APIs I developed. The complete application includes additional team-contributed features and requires private API keys for full functionality.
 
 ---
 
-## 📝 License / Disclosure
+## 💡 Repository Purpose**
 
-This repo is for **educational and portfolio purposes only.**  
-Original full repo access is restricted to the team.
+This repository demonstrates my specific contributions to our team's capstone project, showcasing the image upload pipeline, facial verification system, and deployment infrastructure I designed and implemented.
+
+---
+
+## 📝 Project Contect**
+
+Developed as part of BCIT's COMP 3800 capstone course. This showcase highlights my individual contributions to our collaborative team project.
 
 ---
