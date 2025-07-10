@@ -85,7 +85,7 @@ I worked across both the frontend and backend, focusing on:
 
 ## 🔧 Codw Showcase**
 
-> This repository highlights the core components and APIs I developed. The complete application includes additional team-contributed features and requires private API keys for full functionality.
+This repository highlights the core components and APIs I developed. The complete application includes additional team-contributed features and requires private API keys for full functionality.
 
 ---
 
